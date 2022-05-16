@@ -1,0 +1,52 @@
+{
+    "locations": [
+        {
+            "aberrationMode": false,
+            "accountName": "Gacha Bot",
+            "bedX": 795,
+            "bedY": 537,
+            "crystalBedPrefix": "t1crystal",
+            "crystalBeds": 1,
+            "crystalInterval": 600,
+            "dropGen2Suits": false,
+            "dropItems": [
+                "prim",
+                "ram"
+            ],
+            "gameLauncher": "steam",
+            "keepItems": [
+                "riot",
+                "fab",
+                "pump",
+                "ass"
+            ],
+            "loadGachaMethod": "ytrap",
+            "name": "My Gacha Tower",
+            "numDedis": 4,
+            "openTribeLog": true,
+            "pickupMethod": "fspam",
+            "seedBedPrefix": "t1seed",
+            "seedBeds": 23,
+            "serverName": "Main Server",
+            "serverSearch": "38",
+            "showLogInterval": 300,
+            "sideVaults": true,
+            "singlePlayer": false,
+            "suicideBed": "suicidebed",
+            "suicideFrequency": 1,
+            "suicideMethod": "tekpod",
+            "tagLevel0": "",
+            "tagLevel1": "",
+            "tagLevel2": "",
+            "tagLevel3": "@here",
+            "tagLevel4": "@everyone",
+            "tagLevel5": "",
+            "tesseractpath": "",
+            "towertoken": "",
+            "turnDirection": "360",
+            "webhookAlert": "https://discord.com/api/webhooks/975696691812532274/QLsmP07Hm5lIi1NSN1sb8-8lP_pziymxKzjewqnyHy1eashtT__-2tu05LY4IAiQt7Kwee",
+            "webhookGacha": "https://discord.com/api/webhooks/975696501957361694/MBsgtH3eMnMWH5n7JSYDhJRvr_F8p6VKPXgkf7LZV7_CtV0x8ScD-X3ANuBcQdjdsNQq",
+            "webhookTribeLog": "https://discord.com/api/webhooks/975696618147942420/ptUFWDx_vy9kkrfN7fCzGl39JkLeA8tTNsiBH8RyHfYXdwYx3WH-wc3ppCuf0tfFYPFg"
+        }
+    ]
+}
